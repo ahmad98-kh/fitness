@@ -378,7 +378,9 @@ ul li {
 /* -----------------------------------------------------------------------------
 Common Styles
 ------------------------------------------------------------------------------- */
-.section-header{	text-align: center;	padding-bottom: 30px;
+.section-header{	
+text-align: center;	
+padding-bottom: 30px;
 }
 .section-header h2{
 	
@@ -792,4 +794,8 @@ ul.list-default li {
     color: #fff;
     text-align: center;
 }
+}
+.line{
+font-size:40px ;
+
 }
